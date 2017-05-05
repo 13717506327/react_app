@@ -5,6 +5,6 @@ import ReactDOM from 'react-dom';
 import {Icon} from "antd-mobile"
 ReactDOM.render(
 
-<Icon type="check" size="lg" />
+<Icon type="check" />
   ,document.getElementById('root')
 );
